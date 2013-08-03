@@ -1,0 +1,150 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch My-Local
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   Assets/Fuzion Assets/Characters.meta
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene.meta
+#	modified:   Assets/Fuzion Assets/Level/scenes/HallTestScene.unity
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapFar-0.exr
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapFar-0.exr.meta
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapFar-1.exr
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapFar-1.exr.meta
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapNear-0.exr
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapNear-0.exr.meta
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapNear-1.exr
+#	new file:   Assets/Fuzion Assets/Level/scenes/HallTestScene/LightmapNear-1.exr.meta
+#	new file:   Assets/Fuzion Assets/Props.meta
+#	new file:   Assets/Fuzion Assets/Props/Furniture.meta
+#	new file:   Assets/Fuzion Assets/Props/Furniture/nightStand.fbx
+#	new file:   Assets/Fuzion Assets/Props/Furniture/nightStand.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/ConcreteStucco0131_2_M.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/ConcreteStucco0131_2_M.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/RedWallPaperDiffuse.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/RedWallPaperDiffuse.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/decorativePlate.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/decorativePlate.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/decorativeWood.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/decorativeWood.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/doorKnobDiffuse.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/doorKnobDiffuse.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/lightWoodTex.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/lightWoodTex.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/tileableWood.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/tileableWood.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodDoorDiffuse.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodDoorDiffuse.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodDresserTex.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodDresserTex.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodFloor.mat
+#	new file:   Assets/Fuzion Assets/Props/Materials/woodFloor.mat.meta
+#	new file:   Assets/Fuzion Assets/Props/PreFabs.meta
+#	new file:   Assets/Fuzion Assets/Props/PreFabs/Arch_ElegantHall.prefab
+#	new file:   Assets/Fuzion Assets/Props/PreFabs/Arch_ElegantHall.prefab.meta
+#	new file:   Assets/Fuzion Assets/Props/arch.fbx
+#	new file:   Assets/Fuzion Assets/Props/arch.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/archBase.fbx
+#	new file:   Assets/Fuzion Assets/Props/archBase.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/archPlate.fbx
+#	new file:   Assets/Fuzion Assets/Props/archPlate.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/beam.fbx
+#	new file:   Assets/Fuzion Assets/Props/beam.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/ceilingArch.fbx
+#	new file:   Assets/Fuzion Assets/Props/ceilingArch.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/door.fbx
+#	new file:   Assets/Fuzion Assets/Props/door.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/doorKnob.fbx
+#	new file:   Assets/Fuzion Assets/Props/doorKnob.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/doorKnobPlate.fbx
+#	new file:   Assets/Fuzion Assets/Props/doorKnobPlate.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/hallWay.fbx
+#	new file:   Assets/Fuzion Assets/Props/hallWay.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/longDoor.fbx
+#	new file:   Assets/Fuzion Assets/Props/longDoor.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/longDoorArchway.fbx
+#	new file:   Assets/Fuzion Assets/Props/longDoorArchway.fbx.meta
+#	new file:   Assets/Fuzion Assets/Props/textures.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/ConcreteStuccoDiffuse.jpg
+#	new file:   Assets/Fuzion Assets/Props/textures/ConcreteStuccoDiffuse.jpg.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/ConcreteStuccoNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/ConcreteStuccoNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/RedWallPaperDiffuse.jpg
+#	new file:   Assets/Fuzion Assets/Props/textures/RedWallPaperDiffuse.jpg.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/RedWallPaperNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/RedWallPaperNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/archOrnamentDiffuse.tif
+#	new file:   Assets/Fuzion Assets/Props/textures/archOrnamentDiffuse.tif.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/archOrnamentNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/archOrnamentNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/archePlateDiffuse.png
+#	new file:   Assets/Fuzion Assets/Props/textures/archePlateDiffuse.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/archePlateNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/archePlateNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/darkFineWoodDiffuse.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/darkFineWoodDiffuse.tga.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/darkFineWoodNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/darkFineWoodNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/doorKnobDiffuse.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/doorKnobDiffuse.tga.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/doorKnobNormal.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/doorKnobNormal.tga.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/wallPaperColor.png
+#	new file:   Assets/Fuzion Assets/Props/textures/wallPaperColor.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/woodDoorDiffuse.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/woodDoorDiffuse.tga.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/woodDoorNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/woodDoorNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorDiffuse.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorDiffuse.tga.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorNormal.png
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorNormal.png.meta
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorNormal.tga
+#	new file:   Assets/Fuzion Assets/Props/textures/woodFloorNormal.tga.meta
+#	new file:   Assets/Fuzion Assets/Scripts/Dynamic Object/nightstand.cs.meta
+#	modified:   Assets/Fuzion Assets/Scripts/Player Controls/FPSInputControllerC.cs
+#	modified:   Assets/Standard Assets/Skyboxes/Sunny2 Skybox.mat
+#	modified:   ProjectSettings/ProjectSettings.asset
+#	modified:   ProjectSettings/QualitySettings.asset
+#	modified:   ProjectSettings/TagManager.asset
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    Assets/Furniture.meta
+#	deleted:    Assets/Furniture/Materials.meta
+#	deleted:    Assets/Furniture/Materials/lightWoodTex.mat
+#	deleted:    Assets/Furniture/Materials/lightWoodTex.mat.meta
+#	deleted:    Assets/Furniture/Materials/woodDresserTex.mat
+#	deleted:    Assets/Furniture/Materials/woodDresserTex.mat.meta
+#	deleted:    Assets/Furniture/nightStand.fbx
+#	deleted:    Assets/Furniture/nightStand.fbx.meta
+#	deleted:    Assets/Fuzion Assets/Furniture.meta
+#	deleted:    Assets/Fuzion Assets/Furniture/Materials.meta
+#	deleted:    Assets/Fuzion Assets/Furniture/Materials/lightWoodTex.mat
+#	deleted:    Assets/Fuzion Assets/Furniture/Materials/lightWoodTex.mat.meta
+#	deleted:    Assets/Fuzion Assets/Furniture/Materials/woodDresserTex.mat
+#	deleted:    Assets/Fuzion Assets/Furniture/Materials/woodDresserTex.mat.meta
+#	deleted:    Assets/Fuzion Assets/Furniture/nightStand.fbx
+#	deleted:    Assets/Fuzion Assets/Furniture/nightStand.fbx.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/archWood_Flattened_Diffuse.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/archWood_Flattened_Diffuse.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/archePlateDiffuse.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/archePlateDiffuse.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/darkFineWood.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/darkFineWood.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/lambert1.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/lambert1.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/shackStart10DoorAdjust_sixFootDude_initialShadingGroup1.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/shackStart10DoorAdjust_sixFootDude_initialShadingGroup1.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/upSaturationTestBrick.mat
+#	deleted:    Assets/Fuzion Assets/Level/scenes/Materials/upSaturationTestBrick.mat.meta
+#	deleted:    Assets/Fuzion Assets/Level/scenes/entireHallTestScene.fbx
+#	deleted:    Assets/Fuzion Assets/Level/scenes/entireHallTestScene.fbx.meta
+#	deleted:    Assets/Fuzion Assets/Scripts/Dynamic Object/nightstand.cs.meta
+#
+

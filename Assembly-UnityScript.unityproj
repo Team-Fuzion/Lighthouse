@@ -44,7 +44,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Fuzion Assets\Scripts\Player Controls\CharacterMotor.js" />
      <Compile Include="Assets\Fuzion Assets\Scripts\Player Controls\FPSInputController.js" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
