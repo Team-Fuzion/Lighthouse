@@ -37,7 +37,7 @@ namespace AssemblyCSharpfirstpass
 			
 	    }
 			
-		void Update()
+		void FixedUpdate()
 		{
 						
 				//Player Controls for Selecting Objects.  Should be run under a fixedUpdate()

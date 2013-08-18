@@ -56,6 +56,7 @@ namespace AssemblyCSharpfirstpass
                if (Input.GetKeyDown(KeyCode.E))
                   rayHit.collider.gameObject.SendMessage("interact");
             }
+				
          }
          else
          {
